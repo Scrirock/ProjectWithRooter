@@ -1,0 +1,44 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "01dc675259e501ea670eb6fbebe8853c",
+    "packages": [
+        {
+            "name": "scrirock/rooter",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:Scrirock-Librairies/rooter.git",
+                "reference": "058e132db8b23d0cbdec1b00236f634f58c046b0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Scrirock-Librairies/rooter/zipball/058e132db8b23d0cbdec1b00236f634f58c046b0",
+                "reference": "058e132db8b23d0cbdec1b00236f634f58c046b0",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "description": "simple rooter librairie",
+            "support": {
+                "source": "https://github.com/Scrirock-Librairies/rooter/tree/main",
+                "issues": "https://github.com/Scrirock-Librairies/rooter/issues"
+            },
+            "time": "2022-01-24T13:48:50+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "scrirock/rooter": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}

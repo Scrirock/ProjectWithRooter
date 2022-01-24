@@ -1,0 +1,17 @@
+{
+    "name": "matth/project-with-rooter",
+    "autoload": {
+        "psr-4": {
+            "Matth\\ProjectWithRooter\\": "src/",
+            "Scrirock\\Router\\": "vendor/scrirock/rooter"
+        }
+    },
+    "require": {
+        "scrirock/rooter": "dev-main"
+    },
+    "repositories": [{
+        "type": "vcs",
+        "url": "git@github.com:Scrirock-Librairies/rooter.git"
+    }
+    ]
+}
